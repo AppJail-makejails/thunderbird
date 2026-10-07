@@ -4,7 +4,7 @@ Thunderbird is a free and open source email, newsfeed, chat, and calendaring cli
 
 wikipedia.org/wiki/Mozilla_Thunderbird
 
-<img src="https://raw.githubusercontent.com/AppJail-makejails/thunderbird/refs/heads/main/thunderbird/thunderbird.png" width="30%" height="auto" alt="thunderbird logo">
+<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Thunderbird_2023_icon.png/500px-Thunderbird_2023_icon.png" width="30%" height="auto" alt="thunderbird logo">
 
 ## How to use this AppJail
 
